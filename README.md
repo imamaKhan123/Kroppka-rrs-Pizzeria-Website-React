@@ -1,7 +1,8 @@
 
   # Kroppkärrs Pizzeria Landing Page
 
-  This is a code bundle for Kroppkärrs Pizzeria Landing Page. The original project is available at https://www.figma.com/design/dl7TdoPWlfEDo62edDANxR/Kroppk%C3%A4rrs-Pizzeria-Landing-Page.
+  This is a code bundle for Kroppkärrs Pizzeria Landing Page. The demo is available at https://youtu.be/rEl1mD3Q6nI
+  and https://youtu.be/QEzcbLSqFlg
 
   ## Running the code
 
